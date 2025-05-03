@@ -6,3 +6,4 @@ To help your understanding, please read files in this order:
 3. Final_code.ipynb
  
 The dataset we used to build our models is engineered_school_data_Final.csv, which has already been cleaned and feature-engineered.
+STAT5243 master_data.csv is the cleaned data but without feature engineering.
